@@ -16,3 +16,9 @@ goes!
 <p align="center">
 <a href='scripts/1.comparisons-part-1.R' target='_blank'><img src="plots/1.comparisons-part-1.png"></a>
 </p>
+
+### II - Pictogram, flora, data from Our World In Data
+
+<p align="center">
+<a href='scripts/1.comparisons-part-2.R' target='_blank'><img src="plots/1.comparisons-part-2.png"></a>
+</p>
