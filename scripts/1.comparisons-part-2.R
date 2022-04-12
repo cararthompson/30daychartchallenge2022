@@ -15,7 +15,6 @@ forest_data <- read.csv("data/forest-area-as-share-of-land-area.csv",
          !is.na(code)) %>%
   filter(forest_cover %in% quantile(forest_cover, 
                                     probs = seq(0, 1, 0.1), type = 1),
-         # keep largest entity for area == 0
          forest_cover != 0) %>%
   arrange(forest_cover) %>%
   mutate(entity = factor(entity, levels = unique(entity)))
