@@ -32,7 +32,9 @@ goes!
 <p align="center">
 <a href='scripts/2.distributions-part-1.R' target='_blank'><img src="plots/2.distributions-part-1.png"></a>
 </p>
-<!-- ### II - Statistics, Experimental, Theme from The Economist -->
-<!-- <p align="center"> -->
-<!-- <a href='scripts/2.distributions-part-2.R' target='_blank'><img src="plots/2.distributions-part-2.png"></a> -->
-<!-- </p> -->
+
+### II - Statistics, Experimental, Theme from The Economist
+
+<p align="center">
+<a href='scripts/2.distributions-part-2.R' target='_blank'><img src="plots/2.distributions-part-2.gif"></a>
+</p>
